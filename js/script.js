@@ -42,6 +42,7 @@ function mostraResultado() {
     caixaAlternativas.textContent = "";
 }
 
+    
 mostraPergunta();
 
 
