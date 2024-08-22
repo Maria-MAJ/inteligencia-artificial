@@ -1,7 +1,7 @@
 
 export const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Assim que saiu do seu País, você se depara com uma ponte de madeira, e uma estrada, qual cam,inho você escolhe:",
         alternativas: [
             {
                 texto: "Isso é assustador!",
