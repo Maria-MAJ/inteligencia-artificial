@@ -1,18 +1,18 @@
 
 export const perguntas = [
     {
-        enunciado: "Assim que saiu do seu País, você se depara com uma ponte de madeira, e uma estrada, qual cam,inho você escolhe:",
+        enunciado: "Assim que saiu do seu País, você se depara com uma ponte de madeira, e uma estrada, qual caminho você escolhe:",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: ["No início ficou com medo do que essa tecnologia pode fazer. ",
-                    "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
+                texto: "A ponte!",
+                afirmacao: ["No início ficou com medo onde essa ponte poderia levar. ",
+                    "Achou assustador pensar na velocidade na qual estava a andar sobre ela."
                 ]
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: ["Quis saber como usar IA no seu dia a dia.",
-                    "Foi atrás de vídeos, artigos e mais informaçõe sobre como utilizar essa tecnologia."
+                texto: "A estrada!",
+                afirmacao: ["Quis saber onde a estrada a levaria.",
+                    "pensou que a estrada era mais um lugar onde não deveria ir, pois parecia tenebrosa."
                 ]
             }
         ]
