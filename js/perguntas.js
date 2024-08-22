@@ -1,6 +1,6 @@
 export const perguntas = [
     {
-        enunciado: "Assim que saiu do seu País, você se depara com uma ponte de Madeira, e uma estrada, qual caminho você escolhe:
+        enunciado: "Assim que saiu do seu País, você se depara com uma ponte de Madeira, e uma estrada, qual caminho você escolhe:"
         alternativas: [
             {
                 texto: "A ponte!",
