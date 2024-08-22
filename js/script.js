@@ -78,3 +78,5 @@ function substituiNome() {
         pergunta.enunciado = pergunta.enunciado.replace(/você/g, nome);
     }
 }
+
+substituiNome();
