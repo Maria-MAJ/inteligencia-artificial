@@ -18,17 +18,17 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Após terminar o trajeto escolhido, você se depara com um  gato falante que lhe mostra 2 caminhos para chegar no seu destino. O primeiroé para a direita e o segundo para a esquerda. Qual caminho será escolhido:",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: ["Conseguiu utilizar a IA para buscar informações úteis.",
+                texto: "o caminho da direita.",
+                afirmacao: ["achei mais bonito por isso decidi ir para esse.",
                     "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
                     "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
                 ]
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "o caminho da esquerda.",
                 afirmacao: ["Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
                     "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
